@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=thisisangelo.ThisIsAngelo" />
 
 <h1 align="center">Hellow 👋, I'm Alex</h1>
 
