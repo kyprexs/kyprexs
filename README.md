@@ -4,12 +4,6 @@
 <h3 align="center">A fullstack developer from Victoria BC</h3>
 
 <br/>
-
-<div align="center">
-
-💬 Ask me about *InfernoFPS x86 Assembly, React, Tailwind*
-
- </div>
  
 <div align="center"> 
   <a href="mailto:xwest4478@gmail.com">
